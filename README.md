@@ -1,2 +1,2 @@
 # REST_API
-This is a web application which is built on hibernate framework and servlets and JSP. This application used to maintain the records of students and staff by management
+CRUD API for Student table. This is developed using Springboot, Hibernate, MySQL database. This API is tested using POSTMAN API tool. IN this API POST, GET, PUT and DELETE requests are used.
